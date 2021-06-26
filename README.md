@@ -1,20 +1,21 @@
-### Hi there 👋
+### Hi there 👋, Jitiendran KS
 
-I'm Jitiendran from India, and I do Frontend Design and Development. I really enjoy learning Angular,Typescript, Javascript, Graphql
+### I am a Frontend Developer
 
-[![jitiendran's github status](https://github-readme-stats.vercel.app/api?username=jitiendran)](https://github.com/jitiendran/github-readme-stats)
+I'm Jitiendran from India, and I am currently pursuing BE Computer Science Engineering in Madras Institue Of Technology. I do Frontend Design and Development. I really enjoy learning Angular,Typescript, Javascript and Graphql.
 
-<!--
-**jitiendran/jitiendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Angular / JS / TS / HTML / CSS / SCSS / Graphql
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jitiendran) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jitiendran-ks-7087811a5/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=jitiendran)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitiendran)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jitiendran&show_icons=true)
+
+![GitHub metrics](https://metrics.lecoq.io/jitiendran)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jitiendran)
+
+![Profile views](https://gpvc.arturio.dev/jitiendran)
