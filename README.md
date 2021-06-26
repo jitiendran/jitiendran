@@ -27,12 +27,10 @@
 <p><a href="https://www.buymeacoffee.com/jitiendran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jitiendran" /></a></p><br><br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitiendran&show_icons=true&locale=en&layout=compact" alt="jitiendran" /></p>
-<br><br>
-<br>
+<p align="center"><img width="700" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitiendran&&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="jitiendran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitiendran&show_icons=true&locale=en" alt="jitiendran" /></p>
+<p align="center">&nbsp;<img  width="700" height="250" src="https://github-readme-stats.vercel.app/api?username=jitiendran&theme=tokyonight&show_icons=true&locale=en" alt="jitiendran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitiendran&" alt="jitiendran" /></p>
+<p align="center"><img width="700" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=jitiendran&theme=tokyonight" alt="jitiendran" /></p>
 
 ![GitHub metrics](https://metrics.lecoq.io/jitiendran)
