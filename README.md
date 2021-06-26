@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jitiendran from India, and I do Frontend Design and Development. I really enjoy learning Angular,Typescript, Javascript, Graphql
+
+[![jitiendran's github status](https://github-readme-stats.vercel.app/api?username=jitiendran)](https://github.com/jitiendran/github-readme-stats)
+
 <!--
 **jitiendran/jitiendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
